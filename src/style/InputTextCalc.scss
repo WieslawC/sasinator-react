@@ -22,3 +22,16 @@ input[type="number"] {
 .displayText {
   font-size: 50px;
 }
+
+@media only screen and (max-width: 600px) {
+  input {
+    font-size: 40px;
+    &.active {
+      transition: 0.4s;
+      width: 300px;
+    }
+  }
+  .displayText {
+    font-size: 40px;
+  }
+}
