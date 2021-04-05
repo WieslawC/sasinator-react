@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sasinator-react/static/css/main.7570bae4.chunk.css",
+    "main.js": "/sasinator-react/static/js/main.646550b8.chunk.js",
+    "main.js.map": "/sasinator-react/static/js/main.646550b8.chunk.js.map",
+    "runtime-main.js": "/sasinator-react/static/js/runtime-main.157a959f.js",
+    "runtime-main.js.map": "/sasinator-react/static/js/runtime-main.157a959f.js.map",
+    "static/js/2.e69fde97.chunk.js": "/sasinator-react/static/js/2.e69fde97.chunk.js",
+    "static/js/2.e69fde97.chunk.js.map": "/sasinator-react/static/js/2.e69fde97.chunk.js.map",
+    "index.html": "/sasinator-react/index.html",
+    "static/css/main.7570bae4.chunk.css.map": "/sasinator-react/static/css/main.7570bae4.chunk.css.map",
+    "static/js/2.e69fde97.chunk.js.LICENSE.txt": "/sasinator-react/static/js/2.e69fde97.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.157a959f.js",
+    "static/js/2.e69fde97.chunk.js",
+    "static/css/main.7570bae4.chunk.css",
+    "static/js/main.646550b8.chunk.js"
+  ]
+}
